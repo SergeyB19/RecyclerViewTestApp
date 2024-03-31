@@ -38,9 +38,9 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
 //    implementation 'com.android.support:recyclerview-v7:26.1.0'
-    implementation("androidx.recyclerview:recyclerview:-v7:26.1.0")
-    // For control over item selection of both touch and mouse driven selection
-    implementation("androidx.recyclerview:recyclerview-selection:1.1.0")
+//    implementation("androidx.recyclerview:recyclerview:-v7:26.1.0")
+//    // For control over item selection of both touch and mouse driven selection
+//    implementation("androidx.recyclerview:recyclerview-selection:1.1.0")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
